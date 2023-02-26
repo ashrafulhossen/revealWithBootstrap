@@ -1,0 +1,31 @@
+.banner-item-1 {
+    background-image: url("../images/carousel/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-item-2 {
+    background-image: url("../images/carousel/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-item-3 {
+    background-image: url("../images/carousel/4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.client-img {
+    width: 10rem;
+}
+
+.team-member-img {
+    width: 8rem;
+    border-radius: 50%;
+    border: solid 1px #0c2e8a;
+    margin: 1.5rem auto 0.5rem;
+}
